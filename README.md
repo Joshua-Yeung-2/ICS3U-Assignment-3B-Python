@@ -1,1 +1,1 @@
-# ICS3U-Assignment-3B-Pythonz
+# ICS3U-Assignment-3B-Python
